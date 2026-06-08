@@ -1,12 +1,16 @@
-# 校园二手交易平台 🏫
+# 校园电子商城平台 🏫
 
-基于 **SpringBoot 3 + Vue 3** 的前后端分离电商系统，面向校园场景提供完整的二手商品交易解决方案。
+基于 **SpringBoot 3 + Vue 3** 的前后端分离电商系统，面向校园场景提供完整的电商服务平台方案。
 
-## 🖥️ 项目截图
+## 🖥️ 部分项目功能截图
 
-> ⚠️ 请将项目运行后的截图放在此处，替换下面的占位文字
+> <img width="1263" height="660" alt="项目后台4" src="https://github.com/user-attachments/assets/2cc5d5d5-2982-463c-9c4d-0b1bfd78504e" />
+<img width="1263" height="660" alt="项目后台3" src="https://github.com/user-attachments/assets/eb6d5e1d-3954-4b3a-a291-d0e71609fe10" />
+<img width="1263" height="660" alt="项目后台2" src="https://github.com/user-attachments/assets/6a525c6e-4293-4d83-8166-9eb2c9282d2d" />
 
-*(截图建议：首页轮播图、商品详情页、购物车、订单管理、后台数据仪表盘 ECharts 图表)*
+> 
+
+
 
 ## 🛠️ 技术栈
 
