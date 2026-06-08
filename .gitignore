@@ -1,0 +1,36 @@
+# ===== IDEA 配置 =====
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# ===== 前端 =====
+node_modules/
+dist/
+*.log
+.DS_Store
+
+# ===== 后端编译产物 =====
+springboot/target/
+*.class
+*.jar
+*.war
+
+# ===== 环境变量 / 敏感信息 =====
+*.env.local
+*.env.*.local
+application-dev.yml
+application-prod.yml
+
+# ===== 上传的文件目录 =====
+springboot/files/
+files/
+
+# ===== 操作系统 =====
+Thumbs.db
+~*
+
+# ===== 临时文件 =====
+*.tmp
+*.swp
+*.bak
